@@ -36,7 +36,7 @@ on the IP Track menu, you can combo with the seeker tool to get the target IP
 - <strong><a href="https://github.com/thewhiteh4t/seeker">Get Seeker</a></strong>
 </details>
 
-Display on the menu ```Phone Tracker```
+Display on the menu ```+256705064417```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/phone.png" />
 
